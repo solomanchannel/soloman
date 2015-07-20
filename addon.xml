@@ -2,7 +2,7 @@
 <addon id="plugin.video.SoloManLists"
        name="SoloManLists"
        version="1.0.1"
-       provider-name="husham.com">
+       provider-name="soloman">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
