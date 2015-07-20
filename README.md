@@ -1,0 +1,2 @@
+# soloman
+Solo Man Addon
