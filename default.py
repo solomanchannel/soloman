@@ -34,7 +34,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
        
-HushamBase = 'https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/solomanlists.xml'
+HushamBase = 'https://raw.githubusercontent.com/solomanchannel/soloman/master/solomanlists(1).xml'
 
 addon = xbmcaddon.Addon('plugin.video.SoloManLists')
 addon_version = addon.getAddonInfo('version')
